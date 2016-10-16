@@ -1,0 +1,3 @@
+1. Folder "Testing Tool" contains the source code of our tool. It also contains the java doc documents.
+2. The pdf file "Database Load Testing Tool" is the user guide. 
+3. You can directly use our testing tool through the jar file "Testing Tool".
